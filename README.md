@@ -1,7 +1,18 @@
-### Hi there, I'm Anandha Krishnan 👋
+<!-- Animated Wave Banner -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anandha%20Krishnan%20N%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Student%20%7C%20Python%20%26%20Automation%20Developer&descAlignY=55&descSize=18" />
+</div>
 
-🚀 **AI & ML Student | Python Developer | Workflow Automation Builder**  
-Passionate about building automated backend workflows, exploring deep learning foundations, and designing clean relational databases.
+<!-- Animated Typing SVG -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Python+Automation+%26+Webhook+Pipelines;Designing+Relational+Database+Schemas+in+SQL;Exploring+AI%2C+Machine+Learning+%26+Math+Foundations" alt="Typing SVG" />
+</div>
+
+---
+
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
+
+🚀 Passionate about building automated backend workflows, exploring deep learning foundations, and designing clean relational databases.
 
 ---
 
@@ -28,7 +39,11 @@ Passionate about building automated backend workflows, exploring deep learning f
 
 ### 📈 GitHub Activity & Metrics
 
+<!-- ⚠️ REPLACE 'YOUR_USERNAME' BELOW WITH YOUR EXACT GITHUB USERNAME -->
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandha-Krishnan-Ai-dev&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+
+<!-- Animated Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
