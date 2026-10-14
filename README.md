@@ -39,10 +39,29 @@
 
 ### 📈 GitHub Activity & Metrics
 
-<!-- ⚠️ REPLACE 'YOUR_USERNAME' BELOW WITH YOUR EXACT GITHUB USERNAME -->
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Anandha-Krishnan-Ai-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandha-Krishnan-Ai-dev&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Anandha-Krishnan-Ai-dev&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+<div align="left">
+  <a href="https://github.com/Anandha-Krishnan-Ai-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Anandha--Krishnan--Ai--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:autoflowbyai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anandha-krishnan-autoflow-ai-solutions-b2b6373b5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
 
 <!-- Animated Footer Wave -->
