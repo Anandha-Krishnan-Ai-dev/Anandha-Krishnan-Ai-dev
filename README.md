@@ -55,10 +55,10 @@
 
 <div align="left">
   <a href="mailto:krishnananandha2008@gmail.com">
-    <img src="https://img.shields.io/badge/Email-krishnananandha2008%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/anandha-krishnan-autoflow-ai-solutions-b2b6373b5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Anandha_Krishnan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/auto_flow_ai_official/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-AutoFlow_AI-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
