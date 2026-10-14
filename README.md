@@ -42,11 +42,11 @@
 
 <div align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=Anandha-Krishnan-Ai-dev&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anandha-Krishnan-Ai-dev&theme=tokyonight" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anandha-Krishnan-Ai-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandha-Krishnan-Ai-dev&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anandha-Krishnan-Ai-dev&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
