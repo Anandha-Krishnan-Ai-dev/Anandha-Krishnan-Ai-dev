@@ -40,12 +40,12 @@
 ### 📈 GitHub Activity & Metrics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Anandha-Krishnan-Ai-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandha-Krishnan-Ai-dev&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Anandha-Krishnan-Ai-dev&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anandha-Krishnan-Ai-dev&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Anandha-Krishnan-Ai-dev&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anandha-Krishnan-Ai-dev&theme=tokyo-night&hide_border=false&area=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -53,14 +53,14 @@
 ### 🤝 Connect With Me
 
 <div align="left">
-  <a href="https://github.com/Anandha-Krishnan-Ai-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Anandha--Krishnan--Ai--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:autoflowbyai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:krishnananandha2008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-krishnananandha2008%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/anandha-krishnan-autoflow-ai-solutions-b2b6373b5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Anandha_Krishnan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/auto_flow_ai_official/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-AutoFlow_AI-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
 
