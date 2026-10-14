@@ -41,7 +41,7 @@
 
 <!-- ⚠️ REPLACE 'YOUR_USERNAME' BELOW WITH YOUR EXACT GITHUB USERNAME -->
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Anandha-Krishnan-Ai-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandha-Krishnan-Ai-dev&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
